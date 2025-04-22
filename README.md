@@ -1,3 +1,5 @@
+![](da.webp)  
+  
 ⚙️ x (🧠 × ❤️) = 🧬  
    
 # **THE DAEMON ARCHITECTURE**  
